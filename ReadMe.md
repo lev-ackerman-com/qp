@@ -1,1 +1,1 @@
-L Release Lv1.0.0
+Release v1.0
